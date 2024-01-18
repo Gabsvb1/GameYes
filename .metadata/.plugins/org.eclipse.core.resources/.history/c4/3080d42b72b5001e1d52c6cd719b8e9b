@@ -1,0 +1,5 @@
+package com.example.gameyes.repository;
+
+public interface CategoriaRepository {
+
+}
